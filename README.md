@@ -71,3 +71,9 @@ The future of DhyutiWalkthroughs goes far beyond PINNs — toward **LLM-powered 
 | 🧭 **Agentic AI for Experiment Design** | AI-driven exploration of materials, molecules, or designs |
 | 🧠 **Generative Models for Physics** | Combining diffusion models, VAEs, and Transformers for scientific generation |
 | 💬 **Natural Language + Simulation Loop** | “Chat-to-Simulate” pipelines for AI-assisted lab workfl
+
+
+## References:
+https://mml-book.github.io/book/mml-book.pdf
+
+https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf
